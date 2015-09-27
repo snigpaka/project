@@ -9,13 +9,18 @@
     "resources": {
         "media": [
             {
+                "file": "fonts/perfect-dos-vga copy.ttf",
+                "name": "FONT_35",
+                "type": "font"
+            },
+            {
                 "file": "images/background.png",
                 "name": "IMAGE",
                 "type": "png"
             },
             {
                 "file": "fonts/perfect-dos-vga.ttf",
-                "name": "FONT_48",
+                "name": "FONT_24",
                 "type": "font"
             }
         ]
